@@ -1,6 +1,8 @@
 # belly-button-challenge
 
-I have submitted the following files for Challenge no. 14:
+I have submitted the following files for Challenge no. 14.
+
+Link to the live page: https://ashakozak.github.io/belly-button-challenge/
 
 belly-button-challenge folder which contains the following:
 
